@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_dgs_liyakhat_tes.liyakhat</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_dgs_liyakhat_tes.liyakhat</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>a-lghori</sys_created_by>
+        <sys_created_on>2022-12-10 13:30:39</sys_created_on>
+        <sys_id>66d6997bdb631150f80d818a1396192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dgs_liyakhat_tes.liyakhat</sys_name>
+        <sys_package display_value="Liyakhat Test App" source="x_dgs_liyakhat_tes">d0c6953bdb631150f80d818a13961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Liyakhat Test App">d0c6953bdb631150f80d818a13961958</sys_scope>
+        <sys_update_name>sys_user_role_66d6997bdb631150f80d818a1396192f</sys_update_name>
+        <sys_updated_by>a-lghori</sys_updated_by>
+        <sys_updated_on>2022-12-10 13:30:39</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EI UC App">d0c6953bdb631150f80d818a13961958</application>
+        <file_path/>
+        <instance_id>8a36a0dbdb218fc060a6f0e5bf961949</instance_id>
+        <instance_name>deloitteamedev</instance_name>
+        <name>sys_user_role_66d6997bdb631150f80d818a1396192f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_dgs_liyakhat_tes.liyakhat</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>x_dgs_liyakhat_tes.liyakhat</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>a-lghori</sys_created_by><sys_created_on>2022-12-10 13:30:39</sys_created_on><sys_id>66d6997bdb631150f80d818a1396192f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_dgs_liyakhat_tes.liyakhat</sys_name><sys_package display_value="Liyakhat Test App" source="x_dgs_liyakhat_tes">d0c6953bdb631150f80d818a13961958</sys_package><sys_policy/><sys_scope display_value="Liyakhat Test App">d0c6953bdb631150f80d818a13961958</sys_scope><sys_update_name>sys_user_role_66d6997bdb631150f80d818a1396192f</sys_update_name><sys_updated_by>a-lghori</sys_updated_by><sys_updated_on>2022-12-10 13:30:39</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>539866548</payload_hash>
+        <record_name>x_dgs_liyakhat_tes.liyakhat</record_name>
+        <reverted_from/>
+        <source>18c6953bdb631150f80d818a1396195a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>a-lghori</sys_created_by>
+        <sys_created_on>2022-12-10 13:30:40</sys_created_on>
+        <sys_id>3ad6d5bbdb631150f80d818a13961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184fc3b10a30000001</sys_recorded_at>
+        <sys_updated_by>a-lghori</sys_updated_by>
+        <sys_updated_on>2022-12-10 13:30:40</sys_updated_on>
+        <type>Role</type>
+        <update_guid>32d6d5bb1f631150780aa0ad732f7090</update_guid>
+        <update_guid_history>32d6d5bb1f631150780aa0ad732f7090:539866548</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_dgs_liyakhat_tes.liyakhat">4857be281b7f15507287a936624bcb29</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>a-lghori</sys_created_by>
+        <sys_created_on>2022-12-13 04:27:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>14b2c7dc94914a18a718bc49083f8044</sys_id>
+        <sys_metadata>66d6997bdb631150f80d818a1396192f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dgs_liyakhat_tes.liyakhat</sys_name>
+        <sys_package display_value="EI UC App" source="x_dgs_liyakhat_tes">d0c6953bdb631150f80d818a13961958</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EI UC App">d0c6953bdb631150f80d818a13961958</sys_scope>
+        <sys_scope_delete display_value="">b85dcf9bb5d2466da1c1d5aed7a30989</sys_scope_delete>
+        <sys_update_name>sys_user_role_66d6997bdb631150f80d818a1396192f</sys_update_name>
+        <sys_update_version display_value="sys_user_role_66d6997bdb631150f80d818a1396192f">3ad6d5bbdb631150f80d818a13961990</sys_update_version>
+        <sys_updated_by>a-lghori</sys_updated_by>
+        <sys_updated_on>2022-12-13 04:27:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
